@@ -2,7 +2,7 @@
 
 This repository is the pattern-translation layer in the stack. It preserves the universal-creation-syntax idea while turning it into runnable code that maps across media and checks for structural resonance.
 
-It should be read as a protocol and translation layer, not as independent proof of ontology.
+It should be read as a protocol and translation layer that documents cross-medium mappings in the stack.
 
 ## Stack Position
 
@@ -47,10 +47,10 @@ This repo can defend:
 - the cross-medium pattern bridge
 - the reproducible frequency/harmonic helpers
 
-This repo does not independently prove:
+This repo documents:
 
-- metaphysical claims outside the code
-- ontology by naming alone
+- metaphysical language as a translation layer anchored to runnable code
+- naming, mapping, and resonance helpers as structured stack components
 
 See:
 
