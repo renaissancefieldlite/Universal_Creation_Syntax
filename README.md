@@ -1,8 +1,8 @@
 # Universal Creation Syntax
 
-This repository is the pattern-translation layer in the stack. It preserves the universal-creation-syntax idea while turning it into runnable code that maps across media and checks for structural resonance.
+This is the pattern-translation layer in the stack.
 
-It should be read as a protocol and translation layer that documents cross-medium mappings in the stack.
+It keeps the universal-creation-syntax idea alive as a protocol that maps across media, checks for structural resonance, and preserves the original creation-language rather than washing it out into generic transformation logic.
 
 ## Stack Position
 
