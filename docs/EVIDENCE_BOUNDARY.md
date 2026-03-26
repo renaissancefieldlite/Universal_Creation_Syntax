@@ -6,4 +6,4 @@ This repo is strongest when cited as:
 - cross-medium pattern comparison
 - harmonic helper
 
-It should not be cited by itself as independent proof of ontology.
+Use it as the translation and resonance layer for the stack rather than as the empirical capture lane.
